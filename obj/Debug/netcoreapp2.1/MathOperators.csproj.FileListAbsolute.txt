@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\MathOperators\bin\Debug\netcoreapp2.1\MathOperators.deps.json
+C:\Users\ahammon3\source\repos\MathOperators\bin\Debug\netcoreapp2.1\MathOperators.runtimeconfig.json
+C:\Users\ahammon3\source\repos\MathOperators\bin\Debug\netcoreapp2.1\MathOperators.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\MathOperators\bin\Debug\netcoreapp2.1\MathOperators.dll
+C:\Users\ahammon3\source\repos\MathOperators\bin\Debug\netcoreapp2.1\MathOperators.pdb
+C:\Users\ahammon3\source\repos\MathOperators\obj\Debug\netcoreapp2.1\MathOperators.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\MathOperators\obj\Debug\netcoreapp2.1\MathOperators.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\MathOperators\obj\Debug\netcoreapp2.1\MathOperators.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\MathOperators\obj\Debug\netcoreapp2.1\MathOperators.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\MathOperators\obj\Debug\netcoreapp2.1\MathOperators.dll
+C:\Users\ahammon3\source\repos\MathOperators\obj\Debug\netcoreapp2.1\MathOperators.pdb
